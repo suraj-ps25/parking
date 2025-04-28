@@ -23,6 +23,8 @@ using namespace std ;
 // spots -> size
 
 
+// strcut ticket -> ?
+
 enum class VehicleType {Car, Bike, Truck};
 enum class SpotSize {Small , medium , large};
 
